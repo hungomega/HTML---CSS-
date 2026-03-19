@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <title>Document</title>
+    </head>
+
+    <style>
+        h1{
+            color : red;
+        }
+        p {
+            color : green;
+        }
+    </style>
+
+    <body>
+        <h1>Tổng hợp các sản phẩm của học viên tại F8 👏👏</h1>
+        <a href="https://fullstack.edu.vn/blog/tong-hop-cac-san-pham-cua-hoc-vien-tai-f8.html">Xem bài viết gốc</a>
+        <p>Bài viết này nhằm tổng hợp lại các dự án mà học viên F8 đã hoàn thành và chia sẻ trên nhóm Học lập trình web F8. Các dự án dưới đây được mình ngẫu nhiên lựa chọn để đăng chứ không mang tính xếp hạng các bạn nhé.</p>
+        <h2>FOR ALL 👏👏</h2>
+        <p>Là trang web không sử dụng quá nhiều kĩ thuật về cả UI lẫn UX nhưng bù lại có chất lượng content tuyệt vời, được phần lớn anh em cộng đồng mạng yêu thích và bình chọn 🤣🤣</p>
+        <img src="https://files.fullstack.edu.vn/f8-prod/blog_posts/65/6139fe28a9844.png" alt="FOR ALL" width="100%">
+    </body>
+</html>
