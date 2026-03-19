@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <title>Document</title>
+    </head>
+
+    <style>
+        #first{
+            color : red;
+            font-size : 60px;
+        }
+
+        #second {
+            color :rgb(50, 97, 237);
+            font-size : 40px;
+        }
+        .third {
+            color : green;
+            font-size : 20px;
+        }
+    </style>
+    <body>
+        <h1 id = "first"> Hùng đẹp trai </h1>
+        <h1 id = "second"> Hùng chăm học </h1>
+        <h4 class = "third"> I cold </h4>
+        <h4 class = "third"> kiên bú đá </h4>
+        <h4 class = "third"> Kiên là thiên tài </h4>
+        <h4 class = "third"> Kiên lạnh lùng </h4>
+        
+    </body>
+</html>
