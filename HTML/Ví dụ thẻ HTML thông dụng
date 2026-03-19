@@ -13,15 +13,15 @@
             I want to become an Embedded Software Engineer at FPT Software. It is a very long journey, but I will try my best to achieve my goal.</p>
 
         <!-- Thẻ img -->
-        <img src="https://yt3.googleusercontent.com/BsU0ImLArrjeXxQElE8LSOep1I8K3te1l1HmSj2Nwg25Fkh1ehSMlWauwCQn3B8FAHwqv5rG_w=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj" alt="Link youtobe" width="100%" />
+        <img src="https://yt3.googleusercontent.com/BsU0ImLArrjeXxQElE8LSOep1I8K3te1l1HmSj2Nwg25Fkh1ehSMlWauwCQn3B8FAHwqv5rG_w=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj" alt="Ảnh đại học" width="100%" title = "Ảnh đại học" />
 
-        <a href = "https://www.youtube.com/@hung9579"> Link Youtobe</a>
+        <a href = "https://www.youtube.com/@hung9579" title = "liên kết"> Link Youtobe</a>
         <p> Above is my YouTube link .</p>
 
-        <a href = "https://www.facebook.com/nguyen.hung.438443"> Link Facebook</a>
+        <a href = "https://www.facebook.com/nguyen.hung.438443" title = "liên kết" > Link Facebook</a>
         <p> Above is my Facebook link . </p>
 
-        <a href = "https://www.tiktok.com/@ptiter3"> Link Tiktok</a>
+        <a href = "https://www.tiktok.com/@ptiter3" title = "liên kết"> Link Tiktok</a>
         <p> Above is my Tiktok link . </p>        
     </body>
 </html>
