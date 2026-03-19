@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <title>personal website</title>
+      <!--   <link rel = "stylesheet" href = "main.css"> -->
+    </head>
+
+ <!--    <style> 
+        h1 {
+            color : blue;
+            font-size: 50px;
+        }
+        p {
+            color :brown;
+        }
+
+    </style> -->
+
+    <body>  
+        <!-- Thẻ h1 -->
+         <h1 style = "color: red; font-size:50px"> Resume</h1>
+  <!--       <h1> Resume</h1> -->
+        <!-- Thẻ p -->
+        <p>My name is Nguyen Huu Hung, and I am currently studying Electronics at the Posts and Telecommunications Institute
+             of Technology in Vietnam. In the future, I want to become an Embedded Software Engineer at FPT Software. 
+             It is a very long journey, but I will try my best to achieve my goal.</p>
+
+        <!-- Thẻ img -->
+        <img src="https://yt3.googleusercontent.com/BsU0ImLArrjeXxQElE8LSOep1I8K3te1l1HmSj2Nwg25Fkh1ehSMlWauwCQn3B8FAHwqv5rG_w=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj" alt="Ảnh đại học" width="100%" title = "Ảnh đại học" />
+
+        <a href = "https://www.youtube.com/@hung9579" title = "liên kết"> Link YouTube</a>
+        <p> Above is my YouTube link .</p>
+
+        <a href = "https://www.facebook.com/nguyen.hung.438443" title = "liên kết" > Link Facebook</a>
+        <p> Above is my Facebook link . </p>
+
+        <a href = "https://www.tiktok.com/@ptiter3" title = "liên kết"> Link Tiktok</a>
+        <p> Above is my Tiktok link . </p>        
+    </body>
+</html>
