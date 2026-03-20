@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+
+    <p class="p1-normal">Đoạn văn 1</p>
+    <p class="p1-normal">Đoạn văn 2</p>
+    <p class="p1-normal p2-red">Đoạn văn 3</p>
+    <p class="p1-normal p2-red">Đoạn văn 4</p>
+
+    <style>
+        .p1-normal {
+            color: green;
+            
+        }
+
+        /* Lưu ý, các tên class viết liền nhau, không có khoảng trắng */
+        .p1-normal.p2-red {
+            color: red;
+            font-size: 50px;
+        }
+    </style>
+</html>
