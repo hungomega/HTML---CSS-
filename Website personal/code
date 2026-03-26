@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <title> Web of Mr.Hung</title>
+      <!--   <link rel = "stylesheet" href = "main.css"> -->
+    </head>
+
+    <style> 
+        h1 {
+            color : blue;
+            font-size: 60px;
+        }
+        p {
+            color :brown;
+        }
+        .small-img0 {
+            width: 1000px;
+            height: auto;
+        }
+        .small-img {
+            width: 300px;
+            height: auto;
+        }
+        .small-img2 {
+            width: 500px;
+            height: auto;
+        }
+    </style>
+
+    <body>  
+        <!-- Thẻ h1 -->
+         <h1> Curriculum Vitae </h1>
+  <!--       <h1> Resume</h1> -->
+        <!-- Thẻ p -->
+        <p>My name is Nguyen Huu Hung, and I am currently studying Electronics at the Posts and Telecommunications Institute
+             of Technology in Vietnam.I am a hardworking and responsible person who always tries to do my tasks well. 
+             I complete my work on time and pay attention to details to avoid mistakes. I am also willing to learn new skills 
+             and improve myself every day. I believe my effort and positive attitude will help me contribute to your company.</p>
+
+        <!-- Thẻ img -->
+        <img src="https://github.com/hungomega/HTML---CSS-/blob/main/Website%20personal/5ae552a6-e353-4da1-806c-b8a930ee529f.jpg?raw=true" class="small-img0" alt="Ảnh" width="100%" title = "Ảnh đại học" />
+
+        <img src=" https://avatars.githubusercontent.com/u/171345927?v=4" class="small-img" alt="Ảnh" width="100%" title = "Ảnh về tôi" />
+
+        <img src="https://github.com/hungomega/HTML---CSS-/blob/main/Website%20personal/aec86d72-f76d-43a8-a2c4-e79864212d4e.jpg?raw=true" class="small-img2"  alt="Ảnh" width="100%" title = "Ảnh chứng chỉ TOEIC " />
+
+        <img src="https://github.com/hungomega/HTML---CSS-/blob/main/Website%20personal/e38aa32b-37d2-47b1-84a9-f3c55c0747a8.jpg?raw=true" class="small-img"  alt="Ảnh" width="100%" title = "Ảnh điểm môn DSA" />
+
+        <img src="https://github.com/hungomega/HTML---CSS-/blob/main/Website%20personal/5098041b-7c3e-4c0b-a60b-3fb5a7752ffb.jpg?raw=true" class="small-img"  alt="Ảnh" width="100%" title = "Ảnh điểm môn DSP" />
+
+        <img src="https://github.com/hungomega/HTML---CSS-/blob/main/Website%20personal/f28af538-df73-41d9-b888-b5ec22fe9f1b.jpg?raw=true" class="small-img"  alt="Ảnh" width="100%" title = "Ảnh điểm môn LTTT" />
+
+        <img src="https://github.com/hungomega/HTML---CSS-/blob/main/Website%20personal/9949983c-06d2-4a92-a6f3-af509ad26667.jpg?raw=true" class="small-img" alt="Ảnh" width="100%" title = "Ảnh điểm môn Toán kỹ " />
+
+
+        <br> <!-- thẻ xuống dòng -->
+        <a href = "https://www.youtube.com/@hung9579" title = "liên kết"> Link YouTube</a>
+        <p> Above is my YouTube link .</p>
+
+        <a href = "https://www.facebook.com/nguyen.hung.438443" title = "liên kết" > Link Facebook</a>
+        <p> Above is my Facebook link . </p>
+
+        <a href = "https://www.tiktok.com/@ptiter3" title = "liên kết"> Link Tiktok</a>
+        <p> Above is my Tiktok link . </p>        
+
+        <a href = "https://github.com/hungomega" tittle ="liên kết"> Link Github </a>
+        <p> Above is my Tiktok link . </p>
+    </body>
+</html>
