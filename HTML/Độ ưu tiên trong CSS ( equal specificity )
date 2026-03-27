@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <title> Web of Mr.Hung</title>
+        <!-- <link rel = "stylesheet" href = "main.css"> -->
+    </head> 
+    <style>
+
+        h1#huyle.heading-class
+        {
+            color:aqua;
+        }
+        #huyle.heading-class
+        {
+            color: violet;
+        }
+
+        .heading-class
+        {
+            color :bisque;
+        }
+
+        h1 
+        {
+           color: black;
+            font-size: 80px;
+        } 
+    </style>
+
+    <body>  
+        <!-- Thẻ h1 -->
+         <h1 id = "huyle" class = "heading-class"> Curriculum Vitae </h1>   
+       
+    </body>
+</html>
