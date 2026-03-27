@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <title> Web of Mr.Hung</title>
+        <!-- <link rel = "stylesheet" href = "main.css"> -->
+    </head> 
+
+    <style>
+        html {
+            font-size: 40px;
+        }
+        h1 {
+            font-size: 2rem;
+        }
+    </style>
+
+    <body>  
+         <h1>Hùng chăm chỉ</h1>
+    </body>
+</html>
