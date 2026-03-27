@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <title> Web of Mr.Hung</title>
+        <link rel = "stylesheet" href = "main.css">
+    </head> 
+
+    <style>
+        /* h1 {
+            color :blue;
+            font-size: 60px;
+        } */
+
+        /* li {
+            color :green !important;
+            font-size: 30px;
+        } 
+        li{
+            color:blueviolet;
+        }    */
+
+        *{
+            color: red;
+        }
+        li{
+            color:blanchedalmond;
+        }
+    </style>
+
+
+    <body>  
+        <!-- Thẻ h1 -->
+         <h1> Priority </h1>   
+        <ol>
+            <li> Hùng đẹp trai </li>
+            <li> Kiên lý trí </li>
+            <li> Hòa nhát gái </li>
+        </ol>
+    </body>
+</html>
