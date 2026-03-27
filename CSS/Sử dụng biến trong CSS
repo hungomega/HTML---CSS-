@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <title> Web of Mr.Hung</title>
+        <!-- <link rel = "stylesheet" href = "main.css"> -->
+    </head> 
+
+    <style>
+        :root{
+            --text-color : blue;
+        }
+        h1{
+            --my-color:green;
+            color: var(--my-color);
+          
+        }
+        h2{
+            color: var( --my-color); 
+        }
+        h3{
+            color: var(--text-color);
+        }
+    </style>
+
+
+    <body>  
+         <h1> Priority </h1>   
+         <h2> Kiên bú đá </h2>
+         <h3> Huy Lê hút cần </h3>
+    </body>
+</html>
