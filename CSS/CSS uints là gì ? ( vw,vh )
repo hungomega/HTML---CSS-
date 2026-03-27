@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <title> Web of Mr.Hung</title>
+        <!-- <link rel = "stylesheet" href = "main.css"> -->
+    </head> 
+
+    <style>
+        .box
+        {
+            width: 70vw;;
+            height: 50vh;
+            background-color: red;
+        }
+    </style>
+    <body>  
+         <div class = "box"></div>
+    </body>
+</html>
