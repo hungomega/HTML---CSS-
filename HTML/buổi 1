@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+
+<html lang="vi">
+    <head>
+        <meta charset="UTF-8"/>
+        <title> Web of Mr.Hung</title>
+    </head>
+    <body>
+        <h1> 60 Days of <i><b><u>Backend Development:</u></b></i> A Complete Guide For Beginners  </h1>
+
+        <p> "How do I start learning <b>backend development</b> effectively?"</p>
+
+        <img width="60%" 
+        src="https://media.geeksforgeeks.org/wp-content/uploads/20240724185741/60-Days-of-Backend-Development-(1).webp" 
+        alt="60 days of backend development"
+        />
+
+        <h2>What is Backend Development and Why is it Crucial?</h2>
+        <p> <b>Backend development </b> is focused on constructing and maintaining the server-side part of web applications </p>
+
+        <h2>Day 1-3: Programming Fundamentals</h2>
+
+        <p> Java: Know about <a href="https://www.geeksforgeeks.org/java/how-jvm-works-jvm-architecture/">JVM</a>, <a href="https://www.geeksforgeeks.org/java/jdk-in-java/">JDK</a> and <a href="https://www.geeksforgeeks.org/java/java-basic-syntax/">fundamental syntax—Java</a> , <a href="https://www.geeksforgeeks.org/java/object-oriented-programming-oops-concept-in-java/">object-oriented application language</a> for enterprise-class applications.</p>
+
+        <a href="tel:0379115570">Gọi cho tôi</a>
+        <br>
+        <a href="mailto:nguyenhuuhung2005hn@gmail.com">Gui mail cho toi</a>
+        <ol>
+            <li>hello</li>
+            <li>hello</li>
+            <li>hello</li>
+            <li>hello</li>
+        </ol>
+        
+    </body>
+
+  
+</html>
