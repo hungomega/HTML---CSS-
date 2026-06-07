@@ -1,0 +1,64 @@
+<!doctype html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <title>Layout</title>
+
+        <!-- <link rel="stylesheet" href="./css/styles.css"> -->
+
+        <style>
+
+
+            .header,
+            .footer,
+            .content,
+            .text-1,
+            .text-2,
+            .article,
+            .main {
+                color: #fff;
+                background-color: #333;
+                padding: 30px;
+                border-radius: 10px;
+            }
+
+            .wrapper {
+                display: flex;
+                flex-direction: column;
+
+                row-gap: 30px;
+            }
+
+            .container {
+                display: flex;
+                column-gap: 30px;
+            }
+
+            .article,
+            .text-box {
+                flex-grow: 1;
+            }
+            .text-box {
+                display: flex;
+                flex-direction: column;
+                gap: 30px;
+            }
+        </style>
+    </head>
+
+    <body>
+        <div class="wrapper">
+            <div class="header">HEADER</div>
+            <div class="container">
+                <div class="article">ARTICAL</div>
+                <div class="text-box">
+                    <div class="text-1">TEXT1</div>
+                    <div class="text-2">TEXT2</div>
+                </div>
+            </div>
+            <div class="main">MAIN</div>
+            <div class="footer">FOOTER</div>
+        </div>
+    </body>
+</html>
